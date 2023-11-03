@@ -1,0 +1,13 @@
+{
+	"name": "Toshinden ARM Challenge 23",
+	"version": "23.1103",
+	"packages": {
+		"arm_tac2023": {
+			"description": "Pack containing TAC 2023 tracks",
+			"version": 23.1103,
+			"checksum": "831cfbf9e9d57c3187875c1ae0d999d17e6f1bb16df034f28271428f88c5b50d",
+			"url": "https://pipinotuc95.github.io/arm_tac2023/arm_tac2023.7z",
+     		"file": "arm_tac2023.7z"
+		}
+	}
+}
